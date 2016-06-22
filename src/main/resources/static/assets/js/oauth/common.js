@@ -1,5 +1,5 @@
 // OAuth client details
-var client_id     = "WebApiVendorSample";
+var client_id     = "TradeSamurai";
 
 // Other settings
 var oamBaseUrl    = "https://demo-as.ig.com/openam";
